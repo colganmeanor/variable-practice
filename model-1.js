@@ -6,3 +6,5 @@ var handlebar = 1
 
 var isCool = true
 var isBadAss = true
+
+var bicycleBoys = ['Mike', 'Colgan', 'Ryon']
