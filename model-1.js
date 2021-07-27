@@ -8,3 +8,5 @@ var isCool = true
 var isBadAss = true
 
 var bicycleBoys = ['Mike', 'Colgan', 'Ryon']
+
+var bicycle = {type:"Good", model:"Elite Pro", ageRange:"adult"}
